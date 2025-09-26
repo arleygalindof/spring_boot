@@ -80,3 +80,6 @@
 	</build>
 
 </project>
+<properties>
+  <sonar.organization>arleygalindof</sonar.organization>
+</properties>
