@@ -1,0 +1,5 @@
+com\acn\springboot\catalog\app\SpringBootCatalogApplication.class
+com\acn\springboot\catalog\app\entity\Producto.class
+com\acn\springboot\catalog\app\repo\IProductoRepo.class
+com\acn\springboot\catalog\app\controllers\IndexController.class
+com\acn\springboot\catalog\app\service\ProductServiceImpl.class
