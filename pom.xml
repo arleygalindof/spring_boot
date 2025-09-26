@@ -81,3 +81,6 @@
 	</build>
 
 </project>
+<properties>
+  <sonar.organization>jcposso</sonar.organization>
+</properties>
