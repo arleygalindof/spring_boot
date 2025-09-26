@@ -75,6 +75,7 @@ public class IndexController {
 				Page<Producto> productos = productrepo.findAll(pageRequest);
 				pageRender = new PageRender<>("/productos", productos);
 			} else {
+				
 				producto = productrepo.findBySku(sku);
 				Page<Producto> productos = productrepo.findBySkupage(sku, pageRequest);
 				pageRender = new PageRender<>("/productos", productos);
