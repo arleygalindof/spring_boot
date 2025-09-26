@@ -15,6 +15,7 @@
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>
+		<sonar.organization>jcposso</sonar.organization>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -80,6 +81,3 @@
 	</build>
 
 </project>
-<properties>
-  <sonar.organization>arleygalindof</sonar.organization>
-</properties>
